@@ -73,22 +73,35 @@ plt.legend()
 plt.show()
 ```
 ### OUTPUT:
-# FIRST FIVE ROWS:
-![image](https://github.com/user-attachments/assets/aba8b2c4-f4ee-4359-85a7-09546f11583d)
+<table>
+  <tr>
+    <td style="width:50%">
+      <h3>FIRST FIVE ROWS:</h3>
+      <img src="https://github.com/user-attachments/assets/aba8b2c4-f4ee-4359-85a7-09546f11583d" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <h3>PLOTTING THE DATA:</h3>
+      <img src="https://github.com/user-attachments/assets/1ff3c73d-941d-44b1-96a1-e747319db536" style="width:48%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%">
+      <h3>SEASONAL PLOT REPRESENTATION:</h3>
+      <img src="https://github.com/user-attachments/assets/50188ebd-4f04-4eab-aa0f-fac90cc79aac" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <h3>TREND PLOT REPRESENTATION:</h3>
+      <img src="https://github.com/user-attachments/assets/19a94cb7-4674-4912-9c27-ea2784475357" style="width:48%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;">
+      <h3>OVERALL REPRESENTATION:</h3>
+      <img src="https://github.com/user-attachments/assets/b5967bac-cf95-4f26-96ee-fca3b43249c7" style="width:50%; height:auto;">
+    </td>
+  </tr>
+</table>
 
-# PLOTTING THE DATA:
-![image](https://github.com/user-attachments/assets/1ff3c73d-941d-44b1-96a1-e747319db536)
-
-
-# SEASONAL PLOT REPRESENTATION :
-![image](https://github.com/user-attachments/assets/50188ebd-4f04-4eab-aa0f-fac90cc79aac)
-
-# TREND PLOT REPRESENTATION :
-![image](https://github.com/user-attachments/assets/19a94cb7-4674-4912-9c27-ea2784475357)
-
-
-# OVERAL REPRESENTATION:
-![image](https://github.com/user-attachments/assets/b5967bac-cf95-4f26-96ee-fca3b43249c7)
 
 
 ### RESULT:
